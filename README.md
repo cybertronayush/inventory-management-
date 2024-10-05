@@ -1,7 +1,9 @@
 # inventory-management
-Check Branch dev
-steps to run :
 
-step 1 - npm i 
-step 2 - npm run dev
- 
+Check Branch `dev`
+
+## Steps to run:
+
+1. Run the following command to install dependencies:
+   ```bash
+   npm i
